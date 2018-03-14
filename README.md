@@ -1,5 +1,5 @@
 # OnlineAndroidScriptRecorder
-本科毕业设计
+本科毕业设计·在线Android脚本录制与回放工具
 
 ## 实现功能
 ### Android设备投屏显示在Web页面
