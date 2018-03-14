@@ -1,6 +1,6 @@
 # OnlineAndroidScriptRecorder
 本科毕业设计·在线Android脚本录制与回放工具
-!(图片)[https://markdown-image-1252736437.cos.ap-guangzhou.myqcloud.com/IMG_1463.PNG]{:height="50%" width="50%"}
+!(图片)[https://markdown-image-1252736437.cos.ap-guangzhou.myqcloud.com/IMG_1463.PNG]
 
 ## 实现功能
 ### Android设备投屏显示在Web页面
